@@ -1,4 +1,3 @@
-# MaltemProject
 # Movies_Project_back_end
 The application was designed in two parts :
 
@@ -20,7 +19,7 @@ Util : this package contains the methods read and write the json file
 running the back end application :
 please make sure to run the back end part first. to do so you'll have to run class MoviesApplication.java (embeeded tomecat will be launched on port 8080)
 
-# part 2 : front end
+# Part 2 : Front end
 this part is developped using Angular 8 + bootstrap 3
 
 we have 4 major web components :
@@ -33,5 +32,5 @@ edit-movie: to update an existing movie
 
 home : is for home web page
 
-running the front end application :
+# Running the front end application :
 run the angular Cli server on port 4200 and enjoy browsing
