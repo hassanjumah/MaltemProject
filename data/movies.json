@@ -1,0 +1,16 @@
+[ {
+  "title" : "Marriage Story",
+  "director" : "Noah Baumbach",
+  "releaseDate" : "29/12/2015",
+  "type" : "Romance"
+}, {
+  "title" : "Bandia",
+  "director" : "Said Naciri",
+  "releaseDate" : "01/06/1994",
+  "type" : "Drame"
+}, {
+  "title" : "Impossible",
+  "director" : "USA",
+  "releaseDate" : "31/03/2019",
+  "type" : "Drama"
+} ]

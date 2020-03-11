@@ -1,0 +1,1 @@
+"{\n title='Lion',\r\n director='India',\r\n releaseDate='02/03/2020',\r\n type='Drama',\r\n}"
